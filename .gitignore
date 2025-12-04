@@ -1,0 +1,8 @@
+backend/node_modules/
+backend/uploads/
+backend/podcast.db
+backend/.env
+
+frontend/node_modules/
+frontend/dist/
+frontend/.env
